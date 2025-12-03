@@ -1,0 +1,7 @@
+streamlit==1.28.0
+osmnx==1.6.0
+folium==0.14.0
+pandas==2.0.3
+streamlit-folium==0.15.1
+geopandas==0.13.2
+shapely==2.0.1
